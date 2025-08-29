@@ -1,43 +1,69 @@
-# ClinicFlow 
+# ClinicFlow
+
 ## Tienda comercial profesional
 
 ### Descripción del Proyecto
+
 ClinicFlow es un portafolio profesional desarrollado en WordPress.  
 El proyecto tiene sus orígenes en una propuesta académica para un Sistema de Gestión de Internaciones destinado a clínicas y sanatorios.
 
-Con el tiempo, se transformó en una Landing Page profesional que busca reflejar la identidad de ClinicFlow como empresa digital y mostrar un apartado dedicado a la comercialización de los planos y diagramas de la aplicación original.
+Con el tiempo, se transformó en una Landing Page profesional que busca reflejar la identidad de ClinicFlow como empresa digital y mostrar un apartado dedicado a la comercialización de la aplicación original.
+
+---
 
 ### Propósito y Utilidad
-- Presentar ClinicFlow como un proyecto profesional con proyección digital.  
+
+- Presentar ClinicFlow como un proyecto profesional con proyección digital.
+- Presentar a los integrantes del grupo
 - Facilitar la difusión del proyecto ante instituciones y potenciales clientes.  
 - Integrar la documentación técnica con la implementación en WordPress.  
 - Contar con una Landing Page escalable.
 
+---
+
+### Estructura de la Página
+
+Completar con texto acá.
+
+---
+
+### Estructura del Menú
+
+Completar con texto acá.
+
+---
+
 ### Instalación y Uso (WordPress)
 
 #### Requisitos
+
 - Servidor local (ejemplo: XAMPP o MAMP) con PHP y MySQL.  
 - WordPress descargado desde [wordpress.org](https://wordpress.org/).  
 - Navegador actualizado.
 
 #### Pasos de Instalación
+
 1. Descargar y descomprimir WordPress en la carpeta `htdocs` (si se utiliza XAMPP).  
 2. Crear una base de datos en phpMyAdmin (por ejemplo: `clinicflow_db`).  
-3. Acceder desde el navegador a:  
-(link al sitio)
+3. Acceder desde el navegador a: `localhost/clinicflow_db`
 4. Completar el asistente de instalación de WordPress:
-- Nombre de la base de datos.  
-- Usuario y contraseña de MySQL.  
-- Datos del administrador del sitio.  
+   - Nombre de la base de datos.
+   - Usuario y contraseña de MySQL.  
+   - Datos del administrador del sitio.
 5. Importar el tema/plantilla de ClinicFlow en el panel de WordPress.  
 6. Activar y personalizar la Landing Page para su visualización.
 
+#### Despliegue en Hosting Gratuito
 
-### Elección del Modelo de Distribución  
+Se realizó el despliegue usando el hosting gratuito [infinityfree](https://www.infinityfree.com/)
 
-Tras analizar las ventajas y desventajas de cada modelo, el equipo decidió adoptar el **Modelo 2: Enfoque de Roles Rotativos y Pares**.  
+Link a la página: [Clinic Flow Landing Page](https://clinicflow.fwh.is/?i=1)
 
 ---
+
+### Distribución de Roles para el trabajo en equipo
+
+Tras analizar las ventajas y desventajas de diferentes modelos, el equipo decidió adoptar un **Enfoque de Roles Rotativos y Pares**.
 
 #### Justificación de la Elección  
 
