@@ -1,5 +1,5 @@
 # ClinicFlow 
-# ClinicFlow
+## Tienda comercial profesional
 
 ## Descripción del Proyecto
 ClinicFlow es un portafolio profesional desarrollado en WordPress.  
