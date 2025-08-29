@@ -23,7 +23,22 @@ Con el tiempo, se transformó en una Landing Page profesional que busca reflejar
 
 ### Estructura de la Página
 
-Completar con texto acá.
+Se propone la siguiente estructura de navegación del sitio:
+
+#### Nivel 1 (Menú Principal):
+- Inicio
+- Presentación
+- Integrantes
+- Tecnologías
+- Experiencia laboral
+- Contacto
+
+#### Nivel 2 (Sub-páginas):
+- Páginas de CV (dentro de Integrantes)
+- Sub-páginas por tecnología (dentro de Tecnologías)
+- Entradas de blog (dentro de Experiencia laboral)
+- Páginas de Formulario de contacto, Información de contacto y Redes Sociales (dentro de Contacto)
+
 
 ---
 
