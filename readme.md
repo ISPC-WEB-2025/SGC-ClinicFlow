@@ -29,7 +29,37 @@ Completar con texto acá.
 
 ### Estructura del Menú
 
-Completar con texto acá.
+Se propone el siguiente diseño detallado del plan de menú y contenido por página:
+
+#### Sección principal: 
+- Se visualiza un titular potente como "Innovación y Desarrollo Web" y un subtítulo que nos presenta como un equipo de desarrolladores especializados.
+- Llamada a la Acción (CTA): Botones que invitan a ver nuestros proyectos.
+
+#### Presentación: 
+- Nuestra historia: Quiénes somos, cómo se formó el equipo y cuál es nuestra misión.
+- Filosofía de trabajo: Nuestros valores, nuestra metodología de desarrollo y lo que nos diferencia de otros equipos.
+- Nuestros servicios: Detalle de los servicios que ofrecemos.
+
+#### Integrantes:
+- Perfiles de cada miembro: incluyendo una foto profesional, nombre y cargo, breve biografía destacando habilidades, experiencias y roles, enlaces a perfiles de Linkedin, GitHub u otros.
+
+#### Tecnologías: 
+- Centraliza las tecnologías utilizadas en el proyecto Full Stack y el SGC (como WordPress, HTML, CSS, JavaScript, Python, etc.). Cada tecnología listada tendrá un enlace a una sub-página que la describe, explicando su función y para qué se utiliza en el proyecto.
+- Herramientas y servicios: Mencionamos otras herramientas claves como plataformas en la nube (AWS, Google Cloud), sistemas de control de versiones (Git), o gestores de proyectos (Jira, Trello).
+
+#### Experiencia laboral (Blog):
+- Sección de proyectos: Presentamos "Clinic Flow" como nuestro proyecto más importante.
+- Proyectos anteriores: Tarjetas o secciones para otros proyectos relevantes. 
+- Portafolio de habilidades: Habilidades que demuestran estos proyectos, como desarrollo web, diseño UX/UI, gestión de bases de datos, etc.
+
+#### Contacto:
+- Formulario de contacto: Un formulario sencillo con campos para el nombre, correo electrónico, asunto y mensaje.
+- Información de contacto: Se incluye un correo electrónico directo de nuestro equipo y un número de teléfono.
+- Redes sociales: Se colocan enlaces a los perfiles sociales de Clinic Flow (o de los integrantes del equipo).
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/ee5c0ee7-e25f-4504-8b69-34f5f8580a75" />
+
+Imagen a modo ilustrativo.
 
 ---
 
