@@ -43,38 +43,27 @@ Se propone la siguiente estructura de navegación del sitio:
 
 ---
 
-### Estructura del Menú
+### Estructura del Sitio
 
-Se propone el siguiente diseño detallado del plan de menú y contenido por página:
+La navegación del sitio se organiza en las siguientes secciones:
 
-- Sección principal
-  - Se nos presenta como un equipo de desarrolladores especializados.
-  - Llamada a la Acción (CTA): Botones que invitan a ver nuestros proyectos.
-
-- Presentación
-  - Nuestra historia
-  - Filosofía de trabajo
-  - Nuestros servicios
-
-- Integrantes
-  - Perfiles de cada miembro: incluyendo una foto profesional, nombre y cargo, breve biografía destacando habilidades, experiencias y roles, enlaces a perfiles de Linkedin, GitHub u otros.
-
-- Tecnologías
-  - Cada tecnología listada tendrá un enlace a una sub-página.
-  - Mención de otras herramientas y servicios
-
-- Experiencia laboral (Blog)
-  - Sección de proyectos
-  - Proyectos anteriores
-  - Portafolio de habilidades
-
+- Inicio
+- Nosotros
+  - Nuestra Historia
+  - Filosofía de Trabajo
+  - Perfiles de los Integrantes (con biografía, habilidades y enlaces a sus CVs y redes sociales)
+- Servicios
+  - Detalle de los Servicios (ej. Desarrollo web, Diseño UX/UI)
+  - Tecnologías (con subpáginas para cada tecnología)
+  - Portafolio de Proyectos (con un apartado para "Clinic Flow" y otros proyectos)
+- Tienda
+  - Productos
+  - Categorías
+  - Carrito de compras
 - Contacto
   - Formulario de contacto
   - Información de contacto
   - Redes sociales
-
-![unnamed](https://github.com/user-attachments/assets/ee5c0ee7-e25f-4504-8b69-34f5f8580a75)
-Imagen a modo ilustrativo.
 
 ---
 
