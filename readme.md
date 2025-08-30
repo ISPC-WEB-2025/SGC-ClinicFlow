@@ -23,13 +23,59 @@ Con el tiempo, se transformó en una Landing Page profesional que busca reflejar
 
 ### Estructura de la Página
 
-Completar con texto acá.
+Se propone la siguiente estructura de navegación del sitio:
+
+#### Nivel 1 (Menú Principal)
+
+- Inicio
+- Presentación
+- Integrantes
+- Tecnologías
+- Experiencia laboral
+- Contacto
+
+#### Nivel 2 (Sub-páginas)
+
+- Páginas de CV (dentro de Integrantes)
+- Sub-páginas por tecnología (dentro de Tecnologías)
+- Entradas de blog (dentro de Experiencia laboral)
+- Páginas de Formulario de contacto, Información de contacto y Redes Sociales (dentro de Contacto)
 
 ---
 
 ### Estructura del Menú
 
-Completar con texto acá.
+Se propone el siguiente diseño detallado del plan de menú y contenido por página:
+
+- Sección principal
+  - Se nos presenta como un equipo de desarrolladores especializados.
+  - Llamada a la Acción (CTA): Botones que invitan a ver nuestros proyectos.
+
+- Presentación
+  - Nuestra historia
+  - Filosofía de trabajo
+  - Nuestros servicios
+
+- Integrantes
+  - Perfiles de cada miembro: incluyendo una foto profesional, nombre y cargo, breve biografía destacando habilidades, experiencias y roles, enlaces a perfiles de Linkedin, GitHub u otros.
+
+- Tecnologías
+  - Cada tecnología listada tendrá un enlace a una sub-página.
+  - Mención de otras herramientas y servicios
+
+- Experiencia laboral (Blog)
+  - Sección de proyectos
+  - Proyectos anteriores
+  - Portafolio de habilidades
+
+- Contacto
+  - Formulario de contacto
+  - Información de contacto
+  - Redes sociales
+
+![unnamed](https://github.com/user-attachments/assets/ee5c0ee7-e25f-4504-8b69-34f5f8580a75)
+
+Imagen a modo ilustrativo.
 
 ---
 
