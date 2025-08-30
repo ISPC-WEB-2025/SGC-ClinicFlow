@@ -25,7 +25,7 @@ Con el tiempo, se transformó en una Landing Page profesional que busca reflejar
 
 Se propone la siguiente estructura de navegación del sitio:
 
-#### Nivel 1 (Menú Principal)
+#### Nivel 1 (Menú Principal):
 
 - Inicio
 - Presentación
@@ -34,7 +34,7 @@ Se propone la siguiente estructura de navegación del sitio:
 - Experiencia laboral
 - Contacto
 
-#### Nivel 2 (Sub-páginas)
+#### Nivel 2 (Sub-páginas):
 
 - Páginas de CV (dentro de Integrantes)
 - Sub-páginas por tecnología (dentro de Tecnologías)
@@ -74,7 +74,6 @@ Se propone el siguiente diseño detallado del plan de menú y contenido por pág
   - Redes sociales
 
 ![unnamed](https://github.com/user-attachments/assets/ee5c0ee7-e25f-4504-8b69-34f5f8580a75)
-
 Imagen a modo ilustrativo.
 
 ---
