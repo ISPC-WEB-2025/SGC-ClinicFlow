@@ -25,6 +25,20 @@ La solución técnica se construyó sobre el CMS WordPress y su ecosistema de pl
 
 ### Entorno de Desarrollo
 
+#### Pasos de Instalación para Trabajo Local
+
+1. Descargar y descomprimir WordPress en la carpeta `htdocs` (si se utiliza XAMPP).  
+2. Crear una base de datos en phpMyAdmin (por ejemplo: `clinicflow_db`).  
+3. Acceder desde el navegador a: `localhost/clinicflow_db`
+4. Completar el asistente de instalación de WordPress:
+   - Nombre de la base de datos.
+   - Usuario y contraseña de MySQL.  
+   - Datos del administrador del sitio.
+5. Importar el tema/plantilla de ClinicFlow en el panel de WordPress.  
+6. Activar y personalizar la Landing Page para su visualización.
+
+#### Trabajo Colaborativo
+
 Inicialmente se usó un hosting gratuito (InfinityFree), pero se migró a un servidor más estable debido a problemas de rendimiento.
 
 ### Gestión de Proyectos
