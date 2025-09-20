@@ -1,31 +1,51 @@
-# ClinicFlow
+# ClinicFlow - Presentación y Tienda comercial profesional
 
-## Tienda comercial profesional
+## Descripción del Proyecto
 
-### Descripción del Proyecto
+**ClinicFlow** fue concebido como un ejercicio académico para simular el desarrollo de un sitio web corporativo y portafolio profesional en un entorno de trabajo colaborativo. Utilizando el CMS **WordPress**, el equipo de 5 miembros creó una plataforma digital funcional que sirve como escaparate para una empresa ficticia y, al mismo tiempo, como un portafolio profesional para sus desarrolladores. El proyecto culminó con la exitosa migración del sitio a un dominio final para garantizar su estabilidad y accesibilidad.
 
-ClinicFlow es un portafolio profesional desarrollado en WordPress.  
-El proyecto tiene sus orígenes en una propuesta académica para un Sistema de Gestión de Internaciones destinado a clínicas y sanatorios.
+## Propósito y Utilidad
 
-Con el tiempo, se transformó en una Landing Page profesional que busca reflejar la identidad de ClinicFlow como empresa digital y mostrar un apartado dedicado a la comercialización de la aplicación original.
+- Presentar ClinicFlow como un proyecto profesional con proyección digital
+- Mostrar a los integrantes del grupo y sus habilidades
+- Facilitar la difusión del proyecto ante instituciones y potenciales clientes
+- Integrar la documentación técnica con la implementación en WordPress
+- Contar con una Landing Page escalable
 
----
+## Pila Tecnológica y Metodología
 
-### Propósito y Utilidad
+La solución técnica se construyó sobre el CMS WordPress y su ecosistema de plugins.
 
-- Presentar ClinicFlow como un proyecto profesional con proyección digital.
-- Presentar a los integrantes del grupo
-- Facilitar la difusión del proyecto ante instituciones y potenciales clientes.  
-- Integrar la documentación técnica con la implementación en WordPress.  
-- Contar con una Landing Page escalable.
+### Herramientas Principales
 
----
+- **CMS:** WordPress
+- **Page Builder:** Elementor
+- **Curriculum Builder:** Resume Builder
+- **Formularios:** Fluent Forms
 
-### Estructura de la Página
+### Entorno de Desarrollo
 
-Se propone la siguiente estructura de navegación del sitio:
+Inicialmente se usó un hosting gratuito (InfinityFree), pero se migró a un servidor más estable debido a problemas de rendimiento.
 
-#### Nivel 1 (Menú Principal):
+### Gestión de Proyectos
+
+El equipo adoptó de manera orgánica una metodología flexible basada en los principios de Kanban. Las tareas se gestionaron inicialmente en un documento de Google Drive y luego se transcribieron a un tablero de GitHub con las columnas To Do, In Progress y Done.
+
+### Comunicación
+
+Se utilizó WhatsApp y GitHub para la coordinación y la documentación.
+
+## Visión Estratégica
+
+**Misión:** Potenciar a nuestros clientes con herramientas digitales innovadoras, ofreciendo una experiencia fluida e intuitiva que resuelva desafíos reales.
+
+**Visión:** Ser reconocidos como un proveedor de primera línea en soluciones digitales escalables, convirtiéndonos en un socio clave para clínicas y sanatorios que busquen optimizar sus operaciones a través de nuestros sistemas de gestión avanzados.
+
+## Estructura de la Página y Contenidos
+
+El sitio web está diseñado con una arquitectura intuitiva que refleja las secciones de una empresa de desarrollo de software.
+
+### Nivel 1 (Menú Principal)
 
 - Inicio
 - Presentación
@@ -34,96 +54,65 @@ Se propone la siguiente estructura de navegación del sitio:
 - Experiencia laboral
 - Contacto
 
-#### Nivel 2 (Sub-páginas):
+### Nivel 2 (Sub-páginas)
 
 - Páginas de CV (dentro de Integrantes)
-- Sub-páginas por tecnología (dentro de Tecnologías)
-- Entradas de blog (dentro de Experiencia laboral)
+- Sub-páginas por tecnología (dentro de Tecnologías) - pendientes de desarrollo
+- Entradas de blog (dentro de Experiencia laboral) - pendientes de desarrollo
 - Páginas de Formulario de contacto, Información de contacto y Redes Sociales (dentro de Contacto)
 
----
+## Roles para el Trabajo en Equipo
 
-### Estructura del Sitio
+El equipo decidió adoptar un **Enfoque de Roles Rotativos y Pares**.
 
-La navegación del sitio se organiza en las siguientes secciones:
+### Justificación de la Elección
 
-- Inicio
-- Nosotros
-  - Nuestra Historia
-  - Filosofía de Trabajo
-  - Perfiles de los Integrantes (con biografía, habilidades y enlaces a sus CVs y redes sociales)
-- Servicios
-  - Detalle de los Servicios (ej. Desarrollo web, Diseño UX/UI)
-  - Tecnologías (con subpáginas para cada tecnología)
-  - Portafolio de Proyectos (con un apartado para "Clinic Flow" y otros proyectos)
-- Tienda
-  - Productos
-  - Categorías
-  - Carrito de compras
-- Contacto
-  - Formulario de contacto
-  - Información de contacto
-  - Redes sociales
+- **Aprendizaje Equitativo:** La rotación de roles asegura que cada integrante experimente tanto con la parte técnica como con la de contenido
+- **Desarrollo de Habilidades:** Ningún miembro queda limitado a una sola tarea, permitiendo a todos ampliar sus competencias
+- **Flexibilidad y Resiliencia:** Si un miembro no puede continuar con una tarea, otro puede retomarla fácilmente
+- **Colaboración en Pares:** El trabajo en pares permite el feedback constante y la revisión cruzada, mejorando la calidad del producto final
 
----
+### Presentación del Modelo Adoptado
 
-### Instalación y Uso (WordPress)
+El equipo implementa ciclos de trabajo rotativos donde los miembros cambian de rol entre las siguientes funciones:
 
-#### Requisitos
+- **Coordinación y Control de Avance:** Supervisa el flujo de trabajo en el tablero Kanban
+- **Desarrollo Técnico:** Trabaja en la configuración y personalización de WordPress
+- **Redacción y Contenido:** Se encarga de la creación de textos y el diseño visual
 
-- Servidor local (ejemplo: XAMPP o MAMP) con PHP y MySQL.  
-- WordPress descargado desde [wordpress.org](https://wordpress.org/).  
-- Navegador actualizado.
+## Instalación y Uso (WordPress)
 
-#### Pasos de Instalación
+### Requisitos
 
-1. Descargar y descomprimir WordPress en la carpeta `htdocs` (si se utiliza XAMPP).  
-2. Crear una base de datos en phpMyAdmin (por ejemplo: `clinicflow_db`).  
+- Servidor local (ejemplo: XAMPP o MAMP) con PHP y MySQL
+- WordPress descargado desde wordpress.org
+- Navegador actualizado
+
+### Pasos de Instalación
+
+1. Descargar y descomprimir WordPress en la carpeta htdocs
+2. Crear una base de datos en phpMyAdmin (ejemplo: clinicflow_db)
 3. Acceder desde el navegador a: `localhost/clinicflow_db`
-4. Completar el asistente de instalación de WordPress:
-   - Nombre de la base de datos.
-   - Usuario y contraseña de MySQL.  
-   - Datos del administrador del sitio.
-5. Importar el tema/plantilla de ClinicFlow en el panel de WordPress.  
-6. Activar y personalizar la Landing Page para su visualización.
+4. Completar el asistente de instalación de WordPress
+5. Importar el tema/plantilla de ClinicFlow en el panel de WordPress
+6. Activar y personalizar la Landing Page
 
-#### Despliegue en Hosting Gratuito
+Se realizó el despliegue usando el hosting gratuito infinityfree.
 
-Se realizó el despliegue usando el hosting gratuito [infinityfree](https://www.infinityfree.com/)
+**Puedes visitar el sitio web final en:** clinicflow.com.ar
 
-Link a la página: [Clinic Flow Landing Page](https://clinicflow.fwh.is/?i=1)
+## Guía de Contribución
 
----
+Este proyecto está documentado en una wiki de GitHub que detalla la visión, la metodología, la guía técnica y una retrospectiva completa. Los colaboradores pueden seguir la guía de contribución para unirse al equipo y evolucionar el proyecto.
 
-### Distribución de Roles para el trabajo en equipo
+### Para comenzar
 
-Tras analizar las ventajas y desventajas de diferentes modelos, el equipo decidió adoptar un **Enfoque de Roles Rotativos y Pares**.
+1. Clona este repositorio:
 
-#### Justificación de la Elección  
+   ```bash
+   git clone https://github.com/ISPC-WEB-2025/SGC-ClinicFlow.git
+   ```
 
-- **Aprendizaje Equitativo:** La rotación de roles asegura que cada integrante pueda experimentar tanto con la parte técnica (instalación y configuración en WordPress, maquetación, estilos) como con la parte de contenido (redacción, diseño de CV, blog, presentaciones).  
+2. Consulta la **[Wiki del Proyecto en GitHub](https://github.com/ISPC-WEB-2025/SGC-ClinicFlow/wiki)** para obtener información detallada sobre el proyecto
 
-- **Desarrollo de Habilidades:** Ningún miembro queda limitado a una sola tarea; todos tienen la posibilidad de ampliar sus competencias y fortalecer sus puntos débiles.  
-
-- **Flexibilidad y Resiliencia:** En caso de que un miembro no pueda continuar con una tarea, otro podrá retomarla sin que el equipo quede bloqueado, ya que todos habrán pasado por funciones similares.  
-
-- **Colaboración en Pares:** El trabajo en pares permite el feedback constante y la revisión cruzada, mejorando la calidad del producto final y reduciendo errores.  
-
----
-
-#### Presentación del Modelo Adoptado  
-
-El equipo implementará ciclos de trabajo rotativos en los que, cada semana, los miembros cambiarán de rol entre las siguientes funciones:  
-
-1. **Coordinación y Control de Avance:**  
-   Un miembro distinto cada semana será responsable de supervisar el flujo de trabajo en *To Do – In Progress – Done* (estilo Kanban).  
-
-2. **Desarrollo Técnico:**  
-   Dos integrantes trabajarán en la configuración y personalización de WordPress, asegurando que el sitio evolucione de manera estable.  
-
-3. **Redacción y Contenido:**  
-   Los otros dos integrantes se encargarán de la creación de textos, diseño narrativo y presentación visual.  
-
----
-
- De esta manera, al finalizar el Sprint, **todos los integrantes habrán participado en cada área del proyecto**, garantizando un aprendizaje integral y una experiencia más equitativa.  
+**Nota:** Los archivos de WordPress y la base de datos se subirán en futuras actualizaciones del repositorio.
