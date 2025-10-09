@@ -100,18 +100,30 @@ El equipo implementa ciclos de trabajo rotativos donde los miembros cambian de r
 5. Importar el tema/plantilla de ClinicFlow en el panel de WordPress
 6. Activar y personalizar la Landing Page
 
-## Guía de Contribución
+### *Guía de Contribución*
 
-Este proyecto está documentado en una wiki de GitHub que detalla la visión, la metodología, la guía técnica y una retrospectiva completa. Los colaboradores pueden seguir la guía de contribución para unirse al equipo y evolucionar el proyecto.
+¡Agradecemos tu interés en contribuir a *ClinicFlow*! Este proyecto es un esfuerzo colaborativo y está abierto a mejoras.
 
-### Para comenzar
+#### *Metodología de Trabajo*
 
-1. Clona este repositorio:
+El equipo adoptó una metodología *flexible* basada en los principios de *Kanban*. Las tareas se gestionaron a través de:
 
-   ```bash
-   git clone https://github.com/ISPC-WEB-2025/SGC-ClinicFlow.git
-   ```
+- *Tablero de GitHub:* Columnas To Do, In Progress y Done para el seguimiento visual del flujo de trabajo.
 
-2. Consulta la **[Wiki del Proyecto en GitHub](https://github.com/ISPC-WEB-2025/SGC-ClinicFlow/wiki)** para obtener información detallada sobre el proyecto
+- *Comunicación:* *WhatsApp* para la coordinación rápida y *GitHub* para la documentación y la gestión de issues.
 
-**Nota:** Los archivos de WordPress y la base de datos se subirán en futuras actualizaciones del repositorio.
+#### *Modelo de Roles*
+
+Se implementó un *Enfoque de Roles Rotativos y Pares* para garantizar el aprendizaje equitativo y desarrollar la resiliencia del equipo. Los colaboradores rotaron entre:
+
+- *Coordinación y Control de Avance:* Supervisar el flujo de trabajo (Kanban).
+- *Desarrollo Técnico:* Configuración y personalización de *WordPress* y plugins.
+- *Redacción y Contenido:* Creación de textos, diseño visual y estructura de la información.
+
+#### *Pasos para Colaborar*
+
+1. *Revisa la *Wiki*: Consulta la *[Wiki del Proyecto en GitHub](https://github.com/ISPC-WEB-2025/SGC-ClinicFlow/wiki)** (enlace a crear) para obtener una visión estratégica, metodológica y técnica detallada.
+2. *Crea un *Issue*: Reporta *bugs* o sugiere nuevas funcionalidades en la sección de Issues de este repositorio.
+3. *Envía un *Pull Request*: Si ya has realizado cambios, envía un *Pull Request* claro con la descripción de tu contribución.
+
+---
