@@ -1,3 +1,20 @@
+### *ClinicFlow: Plataforma Corporativa y Portafolio Profesional*
+
+---
+
+### *Descripción: Propósito y Utilidad*
+
+*ClinicFlow* es un proyecto académico diseñado para simular el desarrollo de un sitio web corporativo profesional y un portafolio de equipo en un entorno de trabajo colaborativo.
+
+El proyecto tiene un *doble propósito*:
+1.  Servir como un *escaparate digital* para una empresa de desarrollo de software ficticia, demostrando su oferta de valor.
+2.  Funcionar como un *portafolio profesional* dinámico para sus cinco desarrolladores, exhibiendo sus habilidades y la experiencia adquirida en el proceso.
+
+*Utilidad y Metas Estratégicas:*
+* *Presentación Profesional:* Mostrar *ClinicFlow* como un proyecto con proyección digital y calidad profesional.
+* *Exhibición de Talento:* Destacar a los integrantes del grupo y sus habilidades técnicas y blandas.
+* *Difusión:* Facilitar la presentación del proyecto a *instituciones, profesores y clientes potenciales*.
+* *Escalabilidad:* Contar con una Landing Page que sirva como base para futuras expansiones del sistema de gestión.
 
 ### *Tecnologías, Requisitos y Pila Tecnológica*
 
