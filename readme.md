@@ -41,7 +41,37 @@ Para replicar el entorno de *ClinicFlow* localmente, necesitarás:
 
 --- 
 
-TOMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASSSSSSSSSSSSSSSSSSSSSSS
+### *Instrucciones de Instalación y Uso*
+
+Sigue estos pasos para configurar *ClinicFlow* en un entorno local de desarrollo:
+
+#### *Pasos de Instalación*
+
+1.  *Clonar el Repositorio (Futura Actualización):*
+    bash
+    git clone [https://github.com/ISPC-WEB-2025/SGC-ClinicFlow.git](https://github.com/ISPC-WEB-2025/SGC-ClinicFlow.git)
+    
+2.  *Preparar WordPress:*
+    * Descarga y descomprime los archivos de *WordPress* en la carpeta htdocs de tu servidor local.
+    * Crea una base de datos vacía en *phpMyAdmin* (ejemplo: clinicflow_db).
+3.  *Configuración Inicial:*
+    * Accede a tu navegador en la ruta localhost/nombre_carpeta_wordpress e inicia el asistente de instalación de *WordPress*, vinculándola con la base de datos creada.
+4.  *Importar Contenido:*
+    * Una vez instalado, accede al panel de administración de *WordPress*.
+    * Importa el *tema/plantilla* de *ClinicFlow* y la *base de datos* (SQL dump) si está disponible.
+    * *Activa y personaliza* la Landing Page y las demás secciones.
+
+#### *Uso Principal*
+
+El sitio está diseñado con una arquitectura intuitiva que refleja las secciones de una empresa de desarrollo de software y un portafolio de equipo. Explora las siguientes secciones:
+
+* *Inicio:* La Landing Page principal con la propuesta de valor.
+* *Presentación:* Información sobre la empresa ficticia y el proyecto.
+* *Integrantes:* Perfiles profesionales del equipo (con sub-páginas de CV).
+* *Tecnologías:* Pila tecnológica utilizada.
+* *Contacto:* Formularios, información y redes sociales.
+
+---
 
 ### *Guía de Contribución*
 
