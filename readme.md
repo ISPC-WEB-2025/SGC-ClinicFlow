@@ -1,20 +1,30 @@
-### *ClinicFlow: Plataforma Corporativa y Portafolio Profesional*
+# ClinicFlow: Plataforma Corporativa y Portafolio Profesional
+
+### **Descripción: Propósito y Visión Estratégica**
+
+**ClinicFlow** nació de la visión de **simplificar y modernizar la gestión de salud a través de la tecnología**. Somos una empresa de desarrollo de software especializada en soluciones digitales escalables para el sector médico y de salud.
+
+Nuestro objetivo principal es potenciar la eficiencia de clínicas, consultorios y sanatorios con **herramientas digitales intuitivas**, resolviendo desafíos operativos reales.
+
+#### **Visión Estratégica**
+
+* **Misión:** Ofrecer soluciones robustas de gestión de salud, asegurando que nuestros clientes brinden una atención fluida y eficiente, desde la gestión de turnos hasta la ficha clínica digital.
+* **Visión:** Ser reconocidos como un proveedor de primera línea en **sistemas de gestión avanzados**, convirtiéndonos en un socio tecnológico clave para la optimización de las operaciones médicas en Latinoamérica.
 
 ---
 
-### *Descripción: Propósito y Utilidad*
+### **Utilidades Clave del Sitio Web**
 
-*ClinicFlow* es un proyecto académico diseñado para simular el desarrollo de un sitio web corporativo profesional y un portafolio de equipo en un entorno de trabajo colaborativo.
+Este sitio web es nuestro **escaparate digital y plataforma de contacto**, diseñado para cumplir con las siguientes funciones esenciales:
 
-El proyecto tiene un *doble propósito*:
-1.  Servir como un *escaparate digital* para una empresa de desarrollo de software ficticia, demostrando su oferta de valor.
-2.  Funcionar como un *portafolio profesional* dinámico para sus cinco desarrolladores, exhibiendo sus habilidades y la experiencia adquirida en el proceso.
+1.  **Tienda de Historias Clínicas Digitales:**
+    * Ofrecemos **Historias Clínicas Digitales Modulares** que se adaptan a distintas necesidades. Los clientes pueden comprar el plan que mejor se ajuste a su institución: **Básico, Estándar, Personalizado o Premium**.
+2.  **Plataforma de Contacto:**
+    * Sirve como el punto de contacto inicial (Landing Page escalable) que facilita el *engagement* con el cliente y la captura de *leads* para demostraciones de nuestros sistemas.
+3.  **Portafolio Corporativo:**
+    * Presenta el **portafolio dinámico** de nuestro equipo de desarrolladores, exhibiendo las habilidades y la experiencia técnica detrás de la creación de nuestras soluciones.
 
-*Utilidad y Metas Estratégicas:*
-* *Presentación Profesional:* Mostrar *ClinicFlow* como un proyecto con proyección digital y calidad profesional.
-* *Exhibición de Talento:* Destacar a los integrantes del grupo y sus habilidades técnicas y blandas.
-* *Difusión:* Facilitar la presentación del proyecto a *instituciones, profesores y clientes potenciales*.
-* *Escalabilidad:* Contar con una Landing Page que sirva como base para futuras expansiones del sistema de gestión.
+> **¡Conoce más sobre nuestras soluciones y planes en: [clinicflow.com.ar](https://clinicflow.com.ar/)!**
 
 ### *Tecnologías, Requisitos y Pila Tecnológica*
 
@@ -98,5 +108,25 @@ Se implementó un *Enfoque de Roles Rotativos y Pares* para garantizar el aprend
 1. *Revisa la *Wiki*: Consulta la *[Wiki del Proyecto en GitHub](https://github.com/ISPC-WEB-2025/SGC-ClinicFlow/wiki)** (enlace a crear) para obtener una visión estratégica, metodológica y técnica detallada.
 2. *Crea un *Issue*: Reporta *bugs* o sugiere nuevas funcionalidades en la sección de Issues de este repositorio.
 3. *Envía un *Pull Request*: Si ya has realizado cambios, envía un *Pull Request* claro con la descripción de tu contribución.
+
+### *Información de Licencia*
+
+Este proyecto se distribuye bajo la licencia *[MIT License](https://opensource.org/licenses/MIT)*.
+
+Eres libre de:
+* *Usar* la obra
+* *Modificar* la obra
+* *Distribuir* la obra
+
+Siempre y cuando se incluya la *atribución* original y el aviso de copyright.
+
+### *Cómo Citar Este Proyecto*
+
+Si utilizas este trabajo o lo mencionas en un contexto académico o profesional, por favor, cítalo de la siguiente manera:
+
+#### *Estilo APA*
+
+> Apellidos, N. (Rol). (2025). ClinicFlow: Plataforma Corporativa y Portafolio Profesional (Versión 1.0) \[Software/Sitio Web]. ISPC-WEB-2025. Disponible en: [https://github.com/ISPC-WEB-2025/SGC-ClinicFlow](https://github.com/ISPC-WEB-2025/SGC-ClinicFlow)
+
 
 ---
