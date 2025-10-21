@@ -1,3 +1,5 @@
+# ClinicFlow: Plataforma Corporativa y Portafolio Profesional
+
 ### **Descripción: Propósito y Visión Estratégica**
 
 **ClinicFlow** nació de la visión de **simplificar y modernizar la gestión de salud a través de la tecnología**. Somos una empresa de desarrollo de software especializada en soluciones digitales escalables para el sector médico y de salud.
